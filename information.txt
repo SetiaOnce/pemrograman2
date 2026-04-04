@@ -1,1 +1,5 @@
+NAMA    : I GEDE YOGA SETIAWAN
+NIM     : 231011401028
+KELAS   : 06TPLE016
+
 GITHUB DOSEN : https://github.com/dosen02289/Pemrograman2/tree/master/src/LatConsole
