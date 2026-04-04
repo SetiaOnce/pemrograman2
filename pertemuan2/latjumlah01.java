@@ -1,13 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
-// package LatGUI;
+// NAMA    : I GEDE YOGA SETIAWAN
+// NIM     : 231011401028
+// KELAS   : 06TPLE016
 
-/**
- *
- * @author RINUSANTORO
- */
 public class latjumlah01 extends javax.swing.JFrame {
 
     /**

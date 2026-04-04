@@ -1,16 +1,10 @@
 
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-// package methodClass;
+// NAMA    : I GEDE YOGA SETIAWAN
+// NIM     : 231011401028
+// KELAS   : 06TPLE016
 
 import java.util.Scanner;
 
-/**
- *
- * @author RINUSANTORO
- */
 public class dataMHS {
     
     public static void main (String [] args){
