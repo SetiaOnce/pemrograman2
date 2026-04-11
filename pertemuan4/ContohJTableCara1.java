@@ -1,3 +1,7 @@
+// NAMA    : I GEDE YOGA SETIAWAN
+// NIM     : 231011401028
+// KELAS   : 06TPLE016
+
 import java.awt.BorderLayout;
 
 import javax.swing.JFrame;
