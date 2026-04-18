@@ -1,0 +1,4 @@
+JALANKAN INI UNTUK MENJALANKAN APP LOGIN: java -cp ".;mysql-connector-j-9.6.0.jar" FormLogin
+JALANKAN INI UNTUK MENJALANKAN APP KARYAWAN: java -cp ".;mysql-connector-j-9.6.0.jar" FormKaryawan
+JALANKAN INI UNTUK MENJALANKAN APP PEKERJAAN: java -cp ".;mysql-connector-j-9.6.0.jar" FormPekerjaan
+JALANKAN INI UNTUK MENJALANKAN APP GAJI: java -cp ".;mysql-connector-j-9.6.0.jar" FormGaji
