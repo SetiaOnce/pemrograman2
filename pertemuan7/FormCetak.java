@@ -1,3 +1,7 @@
+// NAMA    : I GEDE YOGA SETIAWAN
+// NIM     : 231011401028
+// KELAS   : 06TPLE016
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
