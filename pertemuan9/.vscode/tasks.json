@@ -1,0 +1,48 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "1. Compile POS App",
+            "type": "shell",
+            "command": "javac",
+            "args": [
+                "-cp", ".${pathSeparator}lib/mysql-connector-j-9.6.0.jar",
+                "-d", "out",
+                "src/config/DatabaseConfig.java",
+                "src/model/Barang.java",
+                "src/model/Customer.java",
+                "src/model/Supplier.java",
+                "src/model/DetailTransaksi.java",
+                "src/model/Transaksi.java",
+                "src/controller/BarangController.java",
+                "src/controller/CustomerController.java",
+                "src/controller/SupplierController.java",
+                "src/controller/TransaksiController.java",
+                "src/view/UIHelper.java",
+                "src/view/FormBarang.java",
+                "src/view/FormCustomer.java",
+                "src/view/FormSupplier.java",
+                "src/view/FormTransaksi.java",
+                "src/view/LaporanTransaksi.java",
+                "src/view/LaporanStok.java",
+                "src/view/MainFrame.java",
+                "src/Main.java"
+            ],
+            "group": "build",
+            "presentation": { "reveal": "always", "panel": "shared" },
+            "problemMatcher": "$javac"
+        },
+        {
+            "label": "2. Run POS App",
+            "type": "shell",
+            "command": "java",
+            "args": [
+                "-cp", ".${pathSeparator}out${pathSeparator}lib/mysql-connector-j-9.6.0.jar",
+                "Main"
+            ],
+            "group": { "kind": "test", "isDefault": true },
+            "dependsOn": "1. Compile POS App",
+            "presentation": { "reveal": "always", "panel": "shared" }
+        }
+    ]
+}

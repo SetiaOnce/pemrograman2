@@ -3,3 +3,8 @@ echo Main-Class: FormCetak > manifest.txt
 
 2. Compile Ulang 
 javac -cp "lib/*" *.java
+
+3. Bungkus menjadi JAR:
+jar cvfm AplikasiSaya.jar manifest.txt *.class lib/*.jar
+
+4. BUKA APLIKASI LAUNCHER
