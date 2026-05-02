@@ -1,6 +1,8 @@
 # 🏪 POS App - Sistem Penjualan Sederhana
 **Java Swing + MySQL | MVC Pattern**
-
+// NAMA    : I GEDE YOGA SETIAWAN
+// NIM     : 231011401028
+// KELAS   : 06TPLE016
 ---
 
 ## 📁 Struktur Folder
